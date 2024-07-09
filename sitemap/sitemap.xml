@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+            http://www.google.com/schemas/sitemap-image/1.1
+            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+    <url>
+        <loc>https://www.giovidaurri.com/</loc>
+        <lastmod>2024-05-13T23:42:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.giovidaurri.com/assets/images/logo_gv.png</image:loc>
+            <image:caption>Logotipo / Monograma de Giovanni Vidaurri</image:caption>
+        </image:image>
+    </url>
+</urlset>
