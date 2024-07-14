@@ -24,7 +24,6 @@ Senior Product Designer specializing in user-centric, data-driven UX/UI/CX. Expe
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat&logo=adobe&logoColor=white)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat&logo=sketch&logoColor=black)
 
 ## Services
 
