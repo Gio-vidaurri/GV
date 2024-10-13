@@ -33,7 +33,6 @@ Senior Product Designer specializing in user-centric, data-driven UX/UI/CX. Expe
 ## Services
 
 1. **UX/UI Design**: Intuitive and appealing user interfaces based on research and data.
-2. **E-commerce Optimization**: Improving online store performance through data-driven design.
 3. **Product Strategy**: Comprehensive strategies aligned with business goals and user needs.
 
 ## Let's Connect
