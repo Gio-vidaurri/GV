@@ -38,8 +38,7 @@ Senior Product Designer specializing in user-centric, data-driven UX/UI/CX. Expe
 	4.	Prototyping and Wireframing: Creating interactive prototypes and wireframes that allow for early testing and validation of product ideas, ensuring that concepts are viable before full development.
 	5.	Branding and Visual Identity: Helping brands create strong, cohesive visual identities that resonate with their target audience. This includes designing logos, style guides, and comprehensive visual strategies to ensure brand consistency across all touchpoints.
 	6.	Design Workflow Optimization: Streamlining the design process for teams by implementing efficient workflows, design systems, and tools that improve collaboration and ensure the alignment of design output with business goals.
-	7.	Design Training & Workshops: Offering hands-on workshops and training sessions for teams looking to improve their design skills in areas such as UX/UI, visual design, and branding.
-	8.	Competitive Analysis of Digital Products: Conducting a detailed evaluation of competitor products and market trends to identify opportunities for differentiation and improvement in design and user experience.
+	7.	Competitive Analysis of Digital Products: Conducting a detailed evaluation of competitor products and market trends to identify opportunities for differentiation and improvement in design and user experience.
 
 ## Let's Connect
 
