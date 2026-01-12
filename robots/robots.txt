@@ -1,44 +1,21 @@
-# robots.txt para https://www.giovidaurri.com
-
-# Reglas globales para todos los robots
 User-agent: *
 Allow: /
 
-# Directorios y archivos restringidos
+# Restricted areas (harmless even if they don't exist)
 Disallow: /admin/
 Disallow: /login/
 Disallow: /private/
 Disallow: /tmp/
 Disallow: /cgi-bin/
 Disallow: /wp-admin/
+
+# Allow WP AJAX if WP ever exists
 Allow: /wp-admin/admin-ajax.php
 
-# Reglas específicas para Googlebot
-User-agent: Googlebot
-Allow: /
-
-# Reglas para otros bots específicos (ejemplos)
-User-agent: Bingbot
-Allow: /
-
-User-agent: Yandex
-Allow: /
-
-# Tiempo de espera entre solicitudes
-Crawl-delay: 10
-
-# Sitemap
-Sitemap: https://www.giovidaurri.com/sitemap.xml
-
-# Instrucciones adicionales
-# No indexar páginas de búsqueda o parámetros de URL específicos
+# Avoid indexing internal search and common query patterns
+Disallow: /search/
 Disallow: /*?s=*
 Disallow: /*&s=*
-Disallow: /search/
 
-# Permitir el acceso a recursos estáticos
-Allow: /*.css$
-Allow: /*.js$
-Allow: /*.png$
-Allow: /*.jpg$
-Allow: /*.gif$
+# Sitemap index (single source of truth)
+Sitemap: https://www.giovidaurri.com/sitemap/sitemap.xml
