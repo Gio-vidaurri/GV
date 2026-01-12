@@ -1,0 +1,24 @@
+# robots.txt — Gio Vidaurri
+# https://www.giovidaurri.com/
+
+User-agent: *
+Allow: /
+
+# Restricted or non-public areas (safe even if they don't exist)
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+
+# Allow AJAX if WordPress ever exists
+Allow: /wp-admin/admin-ajax.php
+
+# Avoid indexing internal search and common query parameters
+Disallow: /search/
+Disallow: /*?s=*
+Disallow: /*&s=*
+
+# Sitemap index (single source of truth)
+Sitemap: https://www.giovidaurri.com/sitemap/sitemap.xml

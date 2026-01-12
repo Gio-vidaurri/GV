@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!--
+    BLOG POSTS
+    - Add one <url> per language URL.
+    - If you have ES + EN versions, add both and cross-link with hreflang.
+    - If only ES exists, include only ES + x-default.
+  -->
+
+  <!-- TEMPLATE: Post ES + EN pair -->
+  <!--
+  <url>
+    <loc>https://www.giovidaurri.com/blog/slug-es/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/blog/slug-es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/blog/slug-en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/blog/slug-es/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.giovidaurri.com/en/blog/slug-en/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/blog/slug-es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/blog/slug-en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/blog/slug-es/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  -->
+
+  <!-- TEMPLATE: Post ONLY ES -->
+  <!--
+  <url>
+    <loc>https://www.giovidaurri.com/blog/slug-es/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/blog/slug-es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/blog/slug-es/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  -->
+
+</urlset>

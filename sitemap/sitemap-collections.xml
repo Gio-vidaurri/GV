@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- CASE STUDIES -->
+  <url>
+    <loc>https://www.giovidaurri.com/case-studies/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/case-studies/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.giovidaurri.com/en/case-studies/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/case-studies/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/case-studies/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PHOTO & VIDEO -->
+  <url>
+    <loc>https://www.giovidaurri.com/photo-video/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/photo-video/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/photo-video/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/photo-video/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.giovidaurri.com/en/photo-video/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/photo-video/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/photo-video/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/photo-video/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- BLOG -->
+  <url>
+    <loc>https://www.giovidaurri.com/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/blog/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.giovidaurri.com/en/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.giovidaurri.com/blog/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.giovidaurri.com/en/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.giovidaurri.com/blog/" />
+    <lastmod>2026-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
+
