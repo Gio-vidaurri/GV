@@ -1,50 +1,117 @@
 # Giovanni Vidaurri
 
-![Product Designer](https://img.shields.io/badge/Product%20Designer-UX%20%7C%20UI%20%7C%20CX-blue)
+![Product Designer](https://img.shields.io/badge/Product%20Designer-Product%20%7C%20UX%20%7C%20UI-blue)
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-Business%20%7C%20Tech-success)
+![SEO](https://img.shields.io/badge/SEO-Technical%20%7C%20Structured%20Data-informational)
 
 ## About Me
 
-Senior Product Designer specializing in user-centric, data-driven UX/UI/CX. Expert in e-commerce optimization, CRO, and agile methodologies. I create innovative, cross-platform digital experiences that merge aesthetics with functionality.
+I’m a **Senior Product Designer & Product Consultant** focused on building **scalable, data-driven digital products**.
 
-## Skills & Expertise
+My work goes beyond UI. I design and lead **complete product ecosystems**:  
+information architecture, UX flows, design systems, CMS logic, analytics, SEO structure, and business rules—working closely with engineering, marketing, and stakeholders.
 
-- UX/UI Design
-- Customer Experience (CX)
-- Service Design
-- E-commerce Optimization
-- Conversion Rate Optimization (CRO)
-- Data-Driven Design
-- Technical SEO
-- User Research & Analysis
-- Wireframing & Prototyping
-- Design Systems
+I specialize in **complex platforms** such as:
+- E-commerce with advanced filtering & CRO
+- SaaS & internal tools
+- Content-heavy, SEO-driven websites
+- Omnichannel & data-informed experiences
+
+I care about one thing above all:  
+**products that work, scale, and convert**.
+
+---
+
+## What Defines My Work
+
+- Product thinking over screen design
+- Decisions backed by **research + data**
+- Strong alignment between **UX, business and tech**
+- Long-term systems, not short-term visuals
+- Clear documentation and repeatable processes
+
+---
+
+## Core Expertise
+
+- Product Design (UX / UI / CX)
+- Product & UX Strategy
+- Information Architecture & Content Modeling
+- Design Systems (Atomic Design)
+- E-commerce Optimization & CRO
+- Technical SEO (structure, performance, schema)
 - Accessibility (WCAG 2.2)
+- User Research & Usability Testing
+- Analytics & Product Insights (GA4, Hotjar)
+- Agile & Cross-functional Collaboration
 
-## Tools Used
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat&logo=adobe&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+---
 
+## Tools & Stack
 
-## Services
+**Design & Product**
+- Figma (Design Systems, Prototypes, UX Workshops)
+- Adobe Creative Suite
 
-	1.	UX/UI Design: Designing intuitive and visually appealing user interfaces based on research and data-driven insights. The goal is to enhance user interaction, ensuring a seamless and enjoyable user experience across digital platforms.
-	2.	Product Strategy: Developing comprehensive product strategies that align with business objectives while addressing user needs. These strategies incorporate market analysis, user research, and competitive insights to guide product development and ensure long-term success.
-	3.	User Research & Usability Testing: Conducting in-depth user research, including interviews, surveys, and usability tests, to better understand user behavior and preferences. This data informs design decisions and helps to continuously improve the product.
-	4.	Prototyping and Wireframing: Creating interactive prototypes and wireframes that allow for early testing and validation of product ideas, ensuring that concepts are viable before full development.
-	5.	Branding and Visual Identity: Helping brands create strong, cohesive visual identities that resonate with their target audience. This includes designing logos, style guides, and comprehensive visual strategies to ensure brand consistency across all touchpoints.
-	6.	Design Workflow Optimization: Streamlining the design process for teams by implementing efficient workflows, design systems, and tools that improve collaboration and ensure the alignment of design output with business goals.
-	7.	Competitive Analysis of Digital Products: Conducting a detailed evaluation of competitor products and market trends to identify opportunities for differentiation and improvement in design and user experience.
+**Web & Architecture**
+- HTML5 / CSS3 / JavaScript
+- Component-based thinking
+- CMS modeling (Strapi, headless approaches)
 
-## Let's Connect
+**Data & Optimization**
+- GA4, Hotjar, funnels & events
+- CRO & performance analysis
+- SEO structure, metadata & schema.org
 
-I'm open to collaborating on innovative projects. Feel free to reach out for potential collaborations or discussions about product design.
+**Workflow**
+- Git & version control
+- Documentation & runbooks
+- Design–Dev alignment processes
 
-[LinkedIn](https://www.linkedin.com/in/giovidaurri/) | [Portfolio](https://www.giovidaurri.com/)
+---
+
+## What I Actually Do
+
+### Product & UX Strategy  
+Translate business goals into structured product decisions: flows, modules, IA, priorities, and validation paths.
+
+### UX / UI Design  
+Design interfaces as part of a **system**, not isolated screens—focused on clarity, usability, accessibility, and scalability.
+
+### Research & Validation  
+Plan and execute usability testing, interviews, heuristics, and data analysis to reduce risk and guide iteration.
+
+### Design Systems  
+Create and maintain scalable design systems that align design and development, reduce friction, and accelerate delivery.
+
+### E-commerce & CRO  
+Optimize product listings, PDPs, filters, navigation, and content to improve discoverability, conversion, and performance.
+
+### Technical SEO & Structure  
+Design SEO from the ground up: URL structure, content hierarchy, internal linking, performance, and structured data.
+
+---
+
+## Collaboration
+
+I usually work as:
+- Product Design Lead
+- Product Consultant
+- UX Strategist embedded with teams
+
+Comfortable collaborating with:
+- Developers (front & back)
+- Marketing & SEO teams
+- Stakeholders & founders
+
+---
+
+## Let’s Build Products That Scale
+
+If you’re working on a product that needs **clarity, structure, and measurable results**, let’s talk.
+
+- LinkedIn → https://www.linkedin.com/in/giovidaurri/
+- Portfolio → https://www.giovidaurri.com/
 
 ---
 
